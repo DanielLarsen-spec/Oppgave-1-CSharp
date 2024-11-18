@@ -8,5 +8,10 @@ namespace Oppgave_1_CSharp
 {
     internal class Class1
     {
+        
+
+        
+
+
     }
 }
